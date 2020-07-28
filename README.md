@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Profile](https://github.com/oh-bala/oh-bala/blob/master/octocat.png)](https://twitter.com/BalaWxd)
+
 <!--
 **oh-bala/oh-bala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
